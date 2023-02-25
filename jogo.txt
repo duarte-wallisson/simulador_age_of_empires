@@ -1,0 +1,10 @@
+Nome: Wallisson Eduardo Lima Duarte			
+Matrícula: UC18200742
+
+
+Jogo:
+1. Jogo iniciado com 5 aldeoões, 1 fazenda, 1 mina de ouro, 500 de ouro, 500 de comida, hora = 500
+	- hora pode ser modificada no atributo "hora" da classe "Prefeitura"
+2. Mudanças:
+	- aldeões que estão cultivando ou minerando vão aparecer ("{x, x}");
+	- aldeões que estão transportando vão aparecer ("{}, x, x");	

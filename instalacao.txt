@@ -1,0 +1,20 @@
+1. Projeto foi implementado no Netbeans 
+	- importar projeto 
+		ou 
+	- copiar os pacotes da pasta "src" no eclipse(os caracteres com acentos vão ficar bugados)
+2. execução:
+	- executar a classe "principal";
+	- Na tela há opção de criar jogo ou conectar;	
+3. criação de jogo :
+	- Na criação de jogo informar um nome com mais de 2 letras;
+	- quando o criador iniciar o jogo, a janela será trocada da tela da sala para a do jogo;
+4. conectar:
+	- em conectar informar o ip do servidor(ip da máquina), está listado na tela de quem criou o jogo
+5. desconexão:
+	- o jogador convidado sai da sala do jogo, se o jogo já tiver iniciado, encerra para o jogador;
+6. encerrar jogo:
+	- o jogador criador encerra o jogo já iniciado, mas todos os jogadores da sala continuam na sala;
+7. destruir jogo:
+	- o jogador criador destroi o jogo, todos os jogadores terão o jogo fechado;
+8. Jogo:
+	- informações no "jogo.txt"
